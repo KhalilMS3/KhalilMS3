@@ -12,7 +12,8 @@
 
 ###
 <h2>Skills</h2>
-<br clear="both>
+<br>
+  
 <h3>Frontend:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
@@ -59,7 +60,6 @@
 ###
 
 <br clear="both">
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khalil-sfouk/" target="_blank">
@@ -69,5 +69,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
