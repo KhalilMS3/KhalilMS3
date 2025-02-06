@@ -6,7 +6,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhalilMS3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-  <img align="center" height="117" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlzYWlueGYzNmpxdmF2eDh5a3lpcW80dng4bjAwZzllbHBoMml5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlzYWlueGYzNmpxdmF2eDh5a3lpcW80dng4bjAwZzllbHBoMml5NCZlcD16MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
 </div>
 
@@ -16,17 +16,17 @@
 <h3>Frontend:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
 </div>
 
@@ -34,11 +34,11 @@
 <h3>Backend:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
 </div>
 
@@ -46,13 +46,13 @@
 <h3>Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
